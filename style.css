@@ -1,0 +1,31 @@
+.container {
+    /* width: 960px; */
+    background-image: url("");
+    height: 400px;
+    position: relative;
+}
+
+.titleBox {
+    background-color: lightseagreen;
+    text-align: center;
+}
+
+.start {
+    width: 66%;
+}
+
+.contentSection {
+    text-align: center;
+    position: relative;
+    margin-top: 10%;
+    background-image: url("");
+}
+
+body {
+    background-image: url("");
+}
+
+.sidebar {
+    background-image: url("");
+
+}
